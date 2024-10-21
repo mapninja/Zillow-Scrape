@@ -1,0 +1,3005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2063,
+          40.72563
+        ]
+      },
+      "properties": {
+        "zpid": "18834931",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$610,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1870,
+        "address": "2107 Whittier Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.166504,
+          40.776787
+        ]
+      },
+      "properties": {
+        "zpid": "94689043",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$689,900",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2227,
+        "address": "261 Manzanita Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17794,
+          40.791004
+        ]
+      },
+      "properties": {
+        "zpid": "18812984",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$189,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 882,
+        "address": "1823 Fairfield St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.178505,
+          40.76699
+        ]
+      },
+      "properties": {
+        "zpid": "18821337",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$349,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1160,
+        "address": "4486 Meyers Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17385,
+          40.763367
+        ]
+      },
+      "properties": {
+        "zpid": "94689461",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$445,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 962,
+        "address": "236 Higgins St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16182,
+          40.79727
+        ]
+      },
+      "properties": {
+        "zpid": "18813506",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$695,000",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 3023,
+        "address": "1104 I St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.10804,
+          40.787086
+        ]
+      },
+      "properties": {
+        "zpid": "2059935708",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$299,900",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 875,
+        "address": "4955/4965 Myrtle Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.179886,
+          40.78002
+        ]
+      },
+      "properties": {
+        "zpid": "18815603",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$350,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1144,
+        "address": "3125 Central Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17228,
+          40.78241
+        ]
+      },
+      "properties": {
+        "zpid": "205179850",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$714,900",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2234,
+        "address": "2828 California St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18231,
+          40.770523
+        ]
+      },
+      "properties": {
+        "zpid": "18821285",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$279,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 977,
+        "address": "4044 Little Fairfield St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14226,
+          40.740353
+        ]
+      },
+      "properties": {
+        "zpid": "18833803",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$450,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 1768,
+        "address": "2364 Home Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18772,
+          40.774426
+        ]
+      },
+      "properties": {
+        "zpid": "18814994",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$425,000",
+        "beds": 5,
+        "baths": 2.0,
+        "area": 2250,
+        "address": "1520 McCullens Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14849,
+          40.760498
+        ]
+      },
+      "properties": {
+        "zpid": "18832063",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$249,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1200,
+        "address": "1942 Crowell Ln, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1401,
+          40.77562
+        ]
+      },
+      "properties": {
+        "zpid": "18818826",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$595,000",
+        "beds": 6,
+        "baths": 2.0,
+        "area": 3305,
+        "address": "2486 Manzanita Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.149994,
+          40.783005
+        ]
+      },
+      "properties": {
+        "zpid": "18818272",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$525,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1444,
+        "address": "1707 Henderson St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16535,
+          40.780224
+        ]
+      },
+      "properties": {
+        "zpid": "18817062",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$349,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1100,
+        "address": "318 Harris St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1573,
+          40.79663
+        ]
+      },
+      "properties": {
+        "zpid": "18813883",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$299,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1354,
+        "address": "1127 13th St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.15551,
+          40.773743
+        ]
+      },
+      "properties": {
+        "zpid": "440940658",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,150,000",
+        "beds": 5,
+        "baths": 3.0,
+        "area": 3141,
+        "address": "1060/1200 Madrone Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17837,
+          40.765774
+        ]
+      },
+      "properties": {
+        "zpid": "18832943",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$415,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2576,
+        "address": "689 Alpha St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1493,
+          40.754005
+        ]
+      },
+      "properties": {
+        "zpid": "18832421",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$550,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1143,
+        "address": "5060 Canyon Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.161606,
+          40.78647
+        ]
+      },
+      "properties": {
+        "zpid": "18817227",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$316,350",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1083,
+        "address": "2338 H St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.170425,
+          40.79835
+        ]
+      },
+      "properties": {
+        "zpid": "205176178",
+        "statusType": "FOR_SALE",
+        "statusText": "Multi-family home for sale",
+        "price": "$674,900",
+        "beds": null,
+        "baths": 0.0,
+        "area": 3525,
+        "address": "823 A St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "MULTI_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.12289,
+          40.787117
+        ]
+      },
+      "properties": {
+        "zpid": "18819890",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$625,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 1855,
+        "address": "3967 Glenwood Ct, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1659,
+          40.79123
+        ]
+      },
+      "properties": {
+        "zpid": "205176615",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$450,000",
+        "beds": 5,
+        "baths": 3.0,
+        "area": 2898,
+        "address": "1804 D St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.168884,
+          40.795303
+        ]
+      },
+      "properties": {
+        "zpid": "2057017548",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,300,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2600,
+        "address": "1228 C St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20049,
+          40.716244
+        ]
+      },
+      "properties": {
+        "zpid": "18834659",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$399,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1150,
+        "address": "2505 Donna Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.134605,
+          40.79637
+        ]
+      },
+      "properties": {
+        "zpid": "18819023",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$480,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1381,
+        "address": "1479 Vernon St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17821,
+          40.770733
+        ]
+      },
+      "properties": {
+        "zpid": "18821250",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$475,900",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1394,
+        "address": "4101 Hillside Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.149086,
+          40.76546
+        ]
+      },
+      "properties": {
+        "zpid": "18831891",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$829,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1500,
+        "address": "4265 Excelsior Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20258,
+          40.72615
+        ]
+      },
+      "properties": {
+        "zpid": "18834808",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$525,000",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 1979,
+        "address": "6650 Humboldt Hill Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20507,
+          40.726208
+        ]
+      },
+      "properties": {
+        "zpid": "18835069",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,300,000",
+        "beds": 3,
+        "baths": 3.0,
+        "area": 2804,
+        "address": "10 Barscape Ln, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.163956,
+          40.77327
+        ]
+      },
+      "properties": {
+        "zpid": "18817143",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$500,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1384,
+        "address": "3656 F St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2084,
+          40.778946
+        ]
+      },
+      "properties": {
+        "zpid": "2052941829",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,800,000",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 2848,
+        "address": "855/865 New Navy Base Rd, Samoa, CA 95564",
+        "city": "Samoa",
+        "state": "CA",
+        "zipcode": "95564",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.05775,
+          40.794697
+        ]
+      },
+      "properties": {
+        "zpid": "300283705",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$765,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1842,
+        "address": "2340 Greenwood Heights Dr, Kneeland, CA 95549",
+        "city": "Kneeland",
+        "state": "CA",
+        "zipcode": "95549",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.188644,
+          40.774426
+        ]
+      },
+      "properties": {
+        "zpid": "18814990",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$330,000",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 1020,
+        "address": "1562 McCullens Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.176895,
+          40.787468
+        ]
+      },
+      "properties": {
+        "zpid": "18815499",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$399,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1024,
+        "address": "2219 Spring St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14784,
+          40.79799
+        ]
+      },
+      "properties": {
+        "zpid": "18814283",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$319,900",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 680,
+        "address": "1235 West Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17871,
+          40.71483
+        ]
+      },
+      "properties": {
+        "zpid": "429325251",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,395,000",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 3368,
+        "address": "720 Tanglewood Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16389,
+          40.780067
+        ]
+      },
+      "properties": {
+        "zpid": "18817075",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$559,000",
+        "beds": 4,
+        "baths": 1.0,
+        "area": 2519,
+        "address": "3116 F St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.126465,
+          40.787315
+        ]
+      },
+      "properties": {
+        "zpid": "18819828",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$589,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2558,
+        "address": "2150 Quaker St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.144295,
+          40.7429
+        ]
+      },
+      "properties": {
+        "zpid": "18833732",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$975,000",
+        "beds": 3,
+        "baths": 3.0,
+        "area": 4020,
+        "address": "5686 Christine Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.149704,
+          40.786648
+        ]
+      },
+      "properties": {
+        "zpid": "2067228962",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,649,000",
+        "beds": 5,
+        "baths": 4.0,
+        "area": 2953,
+        "address": "2316 S St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.00412,
+          40.787064
+        ]
+      },
+      "properties": {
+        "zpid": "241700681",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$689,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1840,
+        "address": "891 Green Rd, Kneeland, CA 95549",
+        "city": "Kneeland",
+        "state": "CA",
+        "zipcode": "95549",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18692,
+          40.773506
+        ]
+      },
+      "properties": {
+        "zpid": "18815151",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$324,900",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1067,
+        "address": "1430 Allard Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.158226,
+          40.777206
+        ]
+      },
+      "properties": {
+        "zpid": "18817793",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$389,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1164,
+        "address": "3400 K St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20402,
+          40.733505
+        ]
+      },
+      "properties": {
+        "zpid": "18834586",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$399,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1100,
+        "address": "6233 Princeton Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16781,
+          40.774
+        ]
+      },
+      "properties": {
+        "zpid": "18816647",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,199,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 3232,
+        "address": "202 Ponderosa Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.15054,
+          40.79246
+        ]
+      },
+      "properties": {
+        "zpid": "18814194",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$489,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 1626,
+        "address": "1714 18th St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14611,
+          40.735847
+        ]
+      },
+      "properties": {
+        "zpid": "205203018",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$449,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 1708,
+        "address": "2146 Serenity Ln, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.174805,
+          40.761986
+        ]
+      },
+      "properties": {
+        "zpid": "61725304",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$499,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1570,
+        "address": "4900 Starlund Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1148,
+          40.779858
+        ]
+      },
+      "properties": {
+        "zpid": "18820310",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$939,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2524,
+        "address": "3472 Mitchell Heights Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18343,
+          40.775288
+        ]
+      },
+      "properties": {
+        "zpid": "18815127",
+        "statusType": "FOR_SALE",
+        "statusText": "Foreclosure",
+        "price": "$269,900",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1250,
+        "address": "3512 Glen St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.15477,
+          40.733814
+        ]
+      },
+      "properties": {
+        "zpid": "18833507",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$575,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1522,
+        "address": "1571 Ridgewood Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.03434,
+          40.79711
+        ]
+      },
+      "properties": {
+        "zpid": "441659342",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,150,000",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 2550,
+        "address": "3789/3775 Greenwood Heights Dr, Kneeland, CA 95549",
+        "city": "Kneeland",
+        "state": "CA",
+        "zipcode": "95549",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20504,
+          40.718178
+        ]
+      },
+      "properties": {
+        "zpid": "18834862",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$399,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1000,
+        "address": "7177 David Ave, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.140755,
+          40.77755
+        ]
+      },
+      "properties": {
+        "zpid": "18818793",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$550,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1704,
+        "address": "2460 Cherry Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20654,
+          40.728077
+        ]
+      },
+      "properties": {
+        "zpid": "119678888",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$690,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1800,
+        "address": "80 Blue Spruce Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.137924,
+          40.790527
+        ]
+      },
+      "properties": {
+        "zpid": "18819359",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$119,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "1919 Hill Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17429,
+          40.79854
+        ]
+      },
+      "properties": {
+        "zpid": "18812693",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$199,000",
+        "beds": 1,
+        "baths": 1.0,
+        "area": 644,
+        "address": "814 Summer St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14103,
+          40.730503
+        ]
+      },
+      "properties": {
+        "zpid": "59761145",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$625,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2554,
+        "address": "2251 Briarwood Cir, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14296,
+          40.76569
+        ]
+      },
+      "properties": {
+        "zpid": "69246179",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$529,500",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1934,
+        "address": "2312 Crann Ln, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.21856,
+          40.72482
+        ]
+      },
+      "properties": {
+        "zpid": "112411403",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$26,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "239 Central Ave, Fields Landing, CA 95537",
+        "city": "Fields Landing",
+        "state": "CA",
+        "zipcode": "95537",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16428,
+          40.77364
+        ]
+      },
+      "properties": {
+        "zpid": "2057017246",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$369,900",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1300,
+        "address": "3625 E St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.157166,
+          40.776917
+        ]
+      },
+      "properties": {
+        "zpid": "18817863",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$545,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1934,
+        "address": "3426 L St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17519,
+          40.774124
+        ]
+      },
+      "properties": {
+        "zpid": "18816060",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$645,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2970,
+        "address": "3603 Union St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.21649,
+          40.727272
+        ]
+      },
+      "properties": {
+        "zpid": "18834360",
+        "statusType": "FOR_SALE",
+        "statusText": "Home for sale",
+        "price": "$349,943",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1140,
+        "address": "6571 3rd St, Fields Landing, CA 95537",
+        "city": "Fields Landing",
+        "state": "CA",
+        "zipcode": "95537",
+        "homeType": "MANUFACTURED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.21636,
+          40.7263
+        ]
+      },
+      "properties": {
+        "zpid": "112425629",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$90,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "6622 2nd St, Fields Landing, CA 95537",
+        "city": "Fields Landing",
+        "state": "CA",
+        "zipcode": "95537",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16809,
+          40.78849
+        ]
+      },
+      "properties": {
+        "zpid": "205180541",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$710,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 1700,
+        "address": "2121 C St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14837,
+          40.79398
+        ]
+      },
+      "properties": {
+        "zpid": "18814149",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$365,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 900,
+        "address": "1634 West Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16208,
+          40.788803
+        ]
+      },
+      "properties": {
+        "zpid": "18817156",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$434,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1317,
+        "address": "605 Humboldt St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16816,
+          40.79064
+        ]
+      },
+      "properties": {
+        "zpid": "18813370",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$289,525",
+        "beds": 1,
+        "baths": 1.0,
+        "area": 774,
+        "address": "211 Del Norte St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16496,
+          40.794285
+        ]
+      },
+      "properties": {
+        "zpid": "205176730",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$755,000",
+        "beds": 3,
+        "baths": 3.0,
+        "area": 2234,
+        "address": "1403 East St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16056,
+          40.78715
+        ]
+      },
+      "properties": {
+        "zpid": "18817205",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$469,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1725,
+        "address": "727 Huntoon St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16056,
+          40.78678
+        ]
+      },
+      "properties": {
+        "zpid": "18817218",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$415,000",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 1598,
+        "address": "728 Huntoon St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16468,
+          40.765358
+        ]
+      },
+      "properties": {
+        "zpid": "18821003",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$529,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1632,
+        "address": "400 Pelicans Pouch Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.12814,
+          40.792843
+        ]
+      },
+      "properties": {
+        "zpid": "18819263",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$425,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1500,
+        "address": "1749 Linton Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.13009,
+          40.79391
+        ]
+      },
+      "properties": {
+        "zpid": "18819210",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$285,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1054,
+        "address": "1659 Lincoln St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.154205,
+          40.783176
+        ]
+      },
+      "properties": {
+        "zpid": "2063186085",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$599,000",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 2388,
+        "address": "2707 N St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1409,
+          40.735836
+        ]
+      },
+      "properties": {
+        "zpid": "18833483",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$375,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 981,
+        "address": "6093 Beechwood Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16433,
+          40.709736
+        ]
+      },
+      "properties": {
+        "zpid": "18834053",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$435,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1032,
+        "address": "7518 Elk River Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18163,
+          40.705936
+        ]
+      },
+      "properties": {
+        "zpid": "2057017678",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,299,000",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 2832,
+        "address": "7785 Torgersen Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.200386,
+          40.73207
+        ]
+      },
+      "properties": {
+        "zpid": "112427920",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$579,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1754,
+        "address": "2364 Kellog Pl, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.21675,
+          40.74096
+        ]
+      },
+      "properties": {
+        "zpid": "54984890",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$130,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "1397 Buhne Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14636,
+          40.77006
+        ]
+      },
+      "properties": {
+        "zpid": "440155515",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$480,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1904,
+        "address": "2085 Fern St #0, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.06978,
+          40.768078
+        ]
+      },
+      "properties": {
+        "zpid": "300283695",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$275,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "1532 Freshwater Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.15928,
+          40.78919
+        ]
+      },
+      "properties": {
+        "zpid": null,
+        "statusType": "FOR_SALE",
+        "statusText": "For Rent",
+        "price": "From $460,000",
+        "beds": null,
+        "baths": null,
+        "area": null,
+        "address": "2018&2016 J St, Eureka, CA",
+        "city": null,
+        "state": null,
+        "zipcode": null,
+        "homeType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.02138,
+          40.792088
+        ]
+      },
+      "properties": {
+        "zpid": "402785704",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$724,999",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 984,
+        "address": "4548 & 4576 Greenwood Heights Dr, Kneeland, CA 95549",
+        "city": "Kneeland",
+        "state": "CA",
+        "zipcode": "95549",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1552,
+          40.761684
+        ]
+      },
+      "properties": {
+        "zpid": "18832244",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$414,500",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1495,
+        "address": "1412 Trails End Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14353,
+          40.742085
+        ]
+      },
+      "properties": {
+        "zpid": "18833740",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$825,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2814,
+        "address": "5714 Matsen Way, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14001,
+          40.76458
+        ]
+      },
+      "properties": {
+        "zpid": "18831983",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$679,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2450,
+        "address": "4391 Cedar St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16273,
+          40.785362
+        ]
+      },
+      "properties": {
+        "zpid": "18816952",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$649,000",
+        "beds": 5,
+        "baths": 2.0,
+        "area": 1622,
+        "address": "2438 G St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.139206,
+          40.783592
+        ]
+      },
+      "properties": {
+        "zpid": "205184317",
+        "statusType": "FOR_SALE",
+        "statusText": "Multi-family home for sale",
+        "price": "$535,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": 1975,
+        "address": "2615 Harrison Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "MULTI_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16543,
+          40.78066
+        ]
+      },
+      "properties": {
+        "zpid": "2052871786",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$599,000",
+        "beds": 3,
+        "baths": 3.0,
+        "area": 2631,
+        "address": "309 Harris St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.184235,
+          40.70491
+        ]
+      },
+      "properties": {
+        "zpid": "249781553",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$749,000",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2063,
+        "address": "1172 Butte Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16238,
+          40.79761
+        ]
+      },
+      "properties": {
+        "zpid": "2119874610",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$1,450,000",
+        "beds": 3,
+        "baths": 7.0,
+        "area": 8282,
+        "address": "1039 H St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14153,
+          40.77217
+        ]
+      },
+      "properties": {
+        "zpid": "18820364",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$325,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 844,
+        "address": "2389 Redwood St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.176445,
+          40.774586
+        ]
+      },
+      "properties": {
+        "zpid": "18816046",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$498,000",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 2058,
+        "address": "3570 Albee St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14611,
+          40.73609
+        ]
+      },
+      "properties": {
+        "zpid": "18833358",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$499,900",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1600,
+        "address": "2152 Serenity Ln, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.12944,
+          40.789616
+        ]
+      },
+      "properties": {
+        "zpid": "18819690",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$429,000",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1300,
+        "address": "3348 Edgewood Rd, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.174835,
+          40.762592
+        ]
+      },
+      "properties": {
+        "zpid": "61721229",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$655,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2260,
+        "address": "4846 Starlund Ct, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.05574,
+          40.792316
+        ]
+      },
+      "properties": {
+        "zpid": "406137617",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$195,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "2231 Greenwood Heights Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16587,
+          40.795677
+        ]
+      },
+      "properties": {
+        "zpid": "2100767974",
+        "statusType": "FOR_SALE",
+        "statusText": "Multi-family home for sale",
+        "price": "$2,200,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": 9583,
+        "address": "1140 E St APT 5, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "MULTI_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14388,
+          40.78
+        ]
+      },
+      "properties": {
+        "zpid": "344362046",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$769,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2020,
+        "address": "3123 W St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17115,
+          40.786835
+        ]
+      },
+      "properties": {
+        "zpid": "205180149",
+        "statusType": "FOR_SALE",
+        "statusText": "Multi-family home for sale",
+        "price": "$499,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": 4456,
+        "address": "2304 A St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "MULTI_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.11348,
+          40.764008
+        ]
+      },
+      "properties": {
+        "zpid": "2055509508",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$250,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "Mitchell Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14263,
+          40.742596
+        ]
+      },
+      "properties": {
+        "zpid": "18833726",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$814,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2377,
+        "address": "5655 Christine Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14482,
+          40.738667
+        ]
+      },
+      "properties": {
+        "zpid": "18833805",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$699,000",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2386,
+        "address": "2500 Home Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.15374,
+          40.77818
+        ]
+      },
+      "properties": {
+        "zpid": "2061233485",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$160,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "O St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.159485,
+          40.78348
+        ]
+      },
+      "properties": {
+        "zpid": "18817284",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$345,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 927,
+        "address": "824 Hayes St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17651,
+          40.791237
+        ]
+      },
+      "properties": {
+        "zpid": "205176011",
+        "statusType": "FOR_SALE",
+        "statusText": "House for sale",
+        "price": "$495,000",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 884,
+        "address": "525 W Wabash Ave, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "SINGLE_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.19265,
+          40.717346
+        ]
+      },
+      "properties": {
+        "zpid": "2105603226",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$189,900",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "0 Worthington Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.10448,
+          40.77891
+        ]
+      },
+      "properties": {
+        "zpid": "348768109",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$150,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "0 Woodland Way, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14731,
+          40.78095
+        ]
+      },
+      "properties": {
+        "zpid": "441763535",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$100,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "2100 Wood St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18201,
+          40.712173
+        ]
+      },
+      "properties": {
+        "zpid": "349923564",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$199,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "150 Tanglewood Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17345,
+          40.73197
+        ]
+      },
+      "properties": {
+        "zpid": "2068075931",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$425,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "0 Elk River Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1408,
+          40.73075
+        ]
+      },
+      "properties": {
+        "zpid": "112388942",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$64,900",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "2231 Briarwood Cir, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14847,
+          40.784016
+        ]
+      },
+      "properties": {
+        "zpid": "18818460",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$240,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "1824 Carson St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1135,
+          40.783546
+        ]
+      },
+      "properties": {
+        "zpid": "2057016856",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$425,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "LOT 6 Rancho Vista Dr, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17231,
+          40.7807
+        ]
+      },
+      "properties": {
+        "zpid": "2085413081",
+        "statusType": "FOR_SALE",
+        "statusText": "Multi-family home for sale",
+        "price": "$850,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": 7950,
+        "address": "2950 California St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "MULTI_FAMILY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.12823,
+          40.790405
+        ]
+      },
+      "properties": {
+        "zpid": "439730511",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$299,999",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "0 Edgewood Rd, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18564,
+          40.761875
+        ]
+      },
+      "properties": {
+        "zpid": "300283227",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$1,250,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "4775 Broadway, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.18973,
+          40.70712
+        ]
+      },
+      "properties": {
+        "zpid": "2092300415",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$2,200,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "0 Berta Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.14266,
+          40.787384
+        ]
+      },
+      "properties": {
+        "zpid": "112382020",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$179,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "2348 23rd St, Eureka, CA 95501",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95501",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.141205,
+          40.772514
+        ]
+      },
+      "properties": {
+        "zpid": "18820361",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$859,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": null,
+        "address": "2409 Redwood St, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.198204,
+          40.7401
+        ]
+      },
+      "properties": {
+        "zpid": "18834165",
+        "statusType": "FOR_SALE",
+        "statusText": "Lot / Land for sale",
+        "price": "$749,000",
+        "beds": null,
+        "baths": 0.0,
+        "area": 2,
+        "address": "5775 Humboldt Hill Rd, Eureka, CA 95503",
+        "city": "Eureka",
+        "state": "CA",
+        "zipcode": "95503",
+        "homeType": "LOT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.56639,
+          40.503315
+        ]
+      },
+      "properties": {
+        "zpid": "205199919",
+        "price": "$195,000",
+        "address": "706 River Rd, Mad River, CA 95526",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 2004,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/706-River-Rd-Mad-River-CA-95526/205199919_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.79091,
+          40.01158
+        ]
+      },
+      "properties": {
+        "zpid": "441559418",
+        "price": "$399,000",
+        "address": "2065 Highway 101 N, Garberville, CA 95542",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 2450,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/2065-Highway-101-N-Garberville-CA-95542/441559418_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.64506,
+          40.14906
+        ]
+      },
+      "properties": {
+        "zpid": "18830957",
+        "price": "$145,000",
+        "address": "1000 Rancho Sequoia Dr, Alderpoint, CA 95511",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1200,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1000-Rancho-Sequoia-Dr-Alderpoint-CA-95511/18830957_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.358315,
+          39.478622
+        ]
+      },
+      "properties": {
+        "zpid": "19208427",
+        "price": "$225,750",
+        "address": "28351 N Highway 101, Willits, CA 95490",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 1563,
+        "statusText": "Foreclosure",
+        "detailUrl": "https://www.zillow.com/homedetails/28351-N-Highway-101-Willits-CA-95490/19208427_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.18619,
+          39.21129
+        ]
+      },
+      "properties": {
+        "zpid": "19220366",
+        "price": "$515,000",
+        "address": "4500 Lake Ridge Rd, Ukiah, CA 95482",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 2700,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/4500-Lake-Ridge-Rd-Ukiah-CA-95482/19220366_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2063,
+          40.72563
+        ]
+      },
+      "properties": {
+        "zpid": "18834931",
+        "price": "$610,000",
+        "address": "2107 Whittier Ct, Eureka, CA 95503",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1870,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/2107-Whittier-Ct-Eureka-CA-95503/18834931_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.166504,
+          40.776787
+        ]
+      },
+      "properties": {
+        "zpid": "94689043",
+        "price": "$689,900",
+        "address": "261 Manzanita Ave, Eureka, CA 95503",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2227,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/261-Manzanita-Ave-Eureka-CA-95503/94689043_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.779785,
+          39.41512
+        ]
+      },
+      "properties": {
+        "zpid": "82886769",
+        "price": "$540,000",
+        "address": "31421 Highway 20, Fort Bragg, CA 95437",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 1266,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/31421-Highway-20-Fort-Bragg-CA-95437/82886769_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.12968,
+          40.924156
+        ]
+      },
+      "properties": {
+        "zpid": "18839697",
+        "price": "$175,000",
+        "address": "436 Mad River Rd, Arcata, CA 95521",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 805,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/436-Mad-River-Rd-Arcata-CA-95521/18839697_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.26273,
+          38.961674
+        ]
+      },
+      "properties": {
+        "zpid": "2063212412",
+        "price": "$299,000",
+        "address": "16450 Yorkville Ranch Rd, Yorkville, CA 95494",
+        "beds": 0,
+        "baths": 3.0,
+        "area": 864,
+        "statusText": "Foreclosure",
+        "detailUrl": "https://www.zillow.com/homedetails/16450-Yorkville-Ranch-Rd-Yorkville-CA-95494/2063212412_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.248924,
+          40.403458
+        ]
+      },
+      "properties": {
+        "zpid": "334063092",
+        "price": "$150,000",
+        "address": "8640 Rattlesnake Rd, Hayfork, CA 96041",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1200,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/8640-Rattlesnake-Rd-Hayfork-CA-96041/334063092_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.53057,
+          39.575504
+        ]
+      },
+      "properties": {
+        "zpid": "19202829",
+        "price": "$175,000",
+        "address": "38900 Upper Rd, Willits, CA 95490",
+        "beds": 2,
+        "baths": 0.0,
+        "area": 1000,
+        "statusText": "Multi-family home for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/38900-Upper-Rd-Willits-CA-95490/19202829_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.963135,
+          40.223595
+        ]
+      },
+      "properties": {
+        "zpid": "249529594",
+        "price": "$195,000",
+        "address": "3780 Thomas Rd, Miranda, CA 95553",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1100,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/3780-Thomas-Rd-Miranda-CA-95553/249529594_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.23537,
+          39.158558
+        ]
+      },
+      "properties": {
+        "zpid": "19218593",
+        "price": "$235,000",
+        "address": "1675 Low Gap Rd, Ukiah, CA 95482",
+        "beds": null,
+        "baths": null,
+        "area": null,
+        "statusText": "Lot / Land for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1675-Low-Gap-Rd-Ukiah-CA-95482/19218593_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.51123,
+          39.974884
+        ]
+      },
+      "properties": {
+        "zpid": "2058998358",
+        "price": "$369,000",
+        "address": "1 Island Mountain Rd, Covelo, CA 95428",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1000,
+        "statusText": "Multi-family home for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1-Island-Mountain-Rd-Covelo-CA-95428/2058998358_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.04431,
+          40.80107
+        ]
+      },
+      "properties": {
+        "zpid": "441873885",
+        "price": "$699,000",
+        "address": "3128 & 3162 Greenwood Heights Dr, Kneeland, CA 95549",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 2178,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/3128-3162-Greenwood-Heights-Dr-Kneeland-CA-95549/441873885_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.50403,
+          39.96776
+        ]
+      },
+      "properties": {
+        "zpid": "341173000",
+        "price": "$199,999",
+        "address": "3 Island Mountain Rd, Laytonville, CA 95454",
+        "beds": null,
+        "baths": null,
+        "area": null,
+        "statusText": "Lot / Land for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/3-Island-Mountain-Rd-Laytonville-CA-95454/341173000_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5822,
+          39.18863
+        ]
+      },
+      "properties": {
+        "zpid": "351800422",
+        "price": "$499,000",
+        "address": "18751 Appian Way, Navarro, CA 95463",
+        "beds": 3,
+        "baths": 3.0,
+        "area": 3204,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/18751-Appian-Way-Navarro-CA-95463/351800422_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17794,
+          40.791004
+        ]
+      },
+      "properties": {
+        "zpid": "18812984",
+        "price": "$189,000",
+        "address": "1823 Fairfield St, Eureka, CA 95501",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 882,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1823-Fairfield-St-Eureka-CA-95501/18812984_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.07164,
+          40.03558
+        ]
+      },
+      "properties": {
+        "zpid": "63185025",
+        "price": "$539,000",
+        "address": "533 Seafoam Rd, Whitethorn, CA 95589",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 1652,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/533-Seafoam-Rd-Whitethorn-CA-95589/63185025_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.89409,
+          40.13398
+        ]
+      },
+      "properties": {
+        "zpid": "2091805603",
+        "price": "$375,000",
+        "address": "1520 Elk Ridge Rd, Redway, CA 95560",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2300,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1520-Elk-Ridge-Rd-Redway-CA-95560/2091805603_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0728,
+          40.03133
+        ]
+      },
+      "properties": {
+        "zpid": "18826351",
+        "price": "$699,000",
+        "address": "156 Shaker Rd, Whitethorn, CA 95589",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2332,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/156-Shaker-Rd-Whitethorn-CA-95589/18826351_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.178505,
+          40.76699
+        ]
+      },
+      "properties": {
+        "zpid": "18821337",
+        "price": "$349,000",
+        "address": "4486 Meyers Ave, Eureka, CA 95503",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1160,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/4486-Meyers-Ave-Eureka-CA-95503/18821337_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.17385,
+          40.763367
+        ]
+      },
+      "properties": {
+        "zpid": "94689461",
+        "price": "$445,000",
+        "address": "236 Higgins St, Eureka, CA 95503",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 962,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/236-Higgins-St-Eureka-CA-95503/94689461_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.09546,
+          40.9386
+        ]
+      },
+      "properties": {
+        "zpid": "18842190",
+        "price": "$475,000",
+        "address": "1815 Aspen Ct, McKinleyville, CA 95519",
+        "beds": 4,
+        "baths": 2.0,
+        "area": 1710,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1815-Aspen-Ct-McKinleyville-CA-95519/18842190_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.09503,
+          40.896145
+        ]
+      },
+      "properties": {
+        "zpid": "18839917",
+        "price": "$399,000",
+        "address": "1989 Leslie Ct, Arcata, CA 95521",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1294,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1989-Leslie-Ct-Arcata-CA-95521/18839917_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.75106,
+          40.476208
+        ]
+      },
+      "properties": {
+        "zpid": "2062906203",
+        "price": "$299,000",
+        "address": "27972 Highway 36, Bridgeville, CA 95526",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 1600,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/27972-Highway-36-Bridgeville-CA-95526/2062906203_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.387634,
+          39.51968
+        ]
+      },
+      "properties": {
+        "zpid": "19208368",
+        "price": "$385,000",
+        "address": "31100 Shimmins Ridge Rd, Willits, CA 95490",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1776,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/31100-Shimmins-Ridge-Rd-Willits-CA-95490/19208368_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.250015,
+          39.789642
+        ]
+      },
+      "properties": {
+        "zpid": "19207540",
+        "price": "$299,950",
+        "address": "23925 Eberle St, Covelo, CA 95428",
+        "beds": 5,
+        "baths": 2.0,
+        "area": 2500,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/23925-Eberle-St-Covelo-CA-95428/19207540_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.448715,
+          40.379025
+        ]
+      },
+      "properties": {
+        "zpid": "338169983",
+        "price": "$69,900",
+        "address": "6508 Mad River Rd, Mad River, CA 95552",
+        "beds": null,
+        "baths": null,
+        "area": null,
+        "statusText": "Lot / Land for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/6508-Mad-River-Rd-Mad-River-CA-95552/338169983_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.61714,
+          40.16193
+        ]
+      },
+      "properties": {
+        "zpid": "352562414",
+        "price": "$100,000",
+        "address": "7155 Road P, Alderpoint, CA 95511",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 2240,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/7155-Road-P-Alderpoint-CA-95511/352562414_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.79228,
+          40.07301
+        ]
+      },
+      "properties": {
+        "zpid": "2056942056",
+        "price": "$300,000",
+        "address": "350 Mountain View Dr, Garberville, CA 95542",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 2300,
+        "statusText": "Home for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/350-Mountain-View-Dr-Garberville-CA-95542/2056942056_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3488,
+          39.397526
+        ]
+      },
+      "properties": {
+        "zpid": "2058434731",
+        "price": "$285,000",
+        "address": "1480 Baechtel Rd, Willits, CA 95490",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1610,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1480-Baechtel-Rd-Willits-CA-95490/2058434731_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.09059,
+          40.933693
+        ]
+      },
+      "properties": {
+        "zpid": "441887323",
+        "price": "$499,000",
+        "address": "1572/1574 Zeus Ave, McKinleyville, CA 95519",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 864,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1572-1574-Zeus-Ave-McKinleyville-CA-95519/441887323_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16182,
+          40.79727
+        ]
+      },
+      "properties": {
+        "zpid": "18813506",
+        "price": "$695,000",
+        "address": "1104 I St, Eureka, CA 95501",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 3023,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/1104-I-St-Eureka-CA-95501/18813506_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.70876,
+          40.477867
+        ]
+      },
+      "properties": {
+        "zpid": "2057016437",
+        "price": "$375,000",
+        "address": "31699 Highway 36, Bridgeville, CA 95526",
+        "beds": 4,
+        "baths": 3.0,
+        "area": 2822,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/31699-Highway-36-Bridgeville-CA-95526/2057016437_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.69614,
+          38.914433
+        ]
+      },
+      "properties": {
+        "zpid": "72548402",
+        "price": "$725,000",
+        "address": "126 Lake St, Point Arena, CA 95468",
+        "beds": 3,
+        "baths": 3.0,
+        "area": 1940,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/126-Lake-St-Point-Arena-CA-95468/72548402_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36011,
+          39.479645
+        ]
+      },
+      "properties": {
+        "zpid": "19208434",
+        "price": "$339,000",
+        "address": "28381 N Highway 101, Willits, CA 95490",
+        "beds": 2,
+        "baths": 1.0,
+        "area": 1200,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/28381-N-Highway-101-Willits-CA-95490/19208434_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99939,
+          39.438854
+        ]
+      },
+      "properties": {
+        "zpid": "19079498",
+        "price": "$325,000",
+        "address": "36858 Elk Mountain Rd, Potter Valley, CA 95469",
+        "beds": 2,
+        "baths": 2.0,
+        "area": 1600,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/36858-Elk-Mountain-Rd-Potter-Valley-CA-95469/19079498_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.85242,
+          40.12786
+        ]
+      },
+      "properties": {
+        "zpid": "351932970",
+        "price": "$345,000",
+        "address": "2675 Briceland Rd, Redway, CA 95560",
+        "beds": 3,
+        "baths": 2.0,
+        "area": 1500,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/2675-Briceland-Rd-Redway-CA-95560/351932970_zpid/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.10804,
+          40.787086
+        ]
+      },
+      "properties": {
+        "zpid": "2059935708",
+        "price": "$299,900",
+        "address": "4955/4965 Myrtle Ave, Eureka, CA 95501",
+        "beds": 3,
+        "baths": 1.0,
+        "area": 875,
+        "statusText": "House for sale",
+        "detailUrl": "https://www.zillow.com/homedetails/4955-4965-Myrtle-Ave-Eureka-CA-95501/2059935708_zpid/"
+      }
+    }
+  ]
+}

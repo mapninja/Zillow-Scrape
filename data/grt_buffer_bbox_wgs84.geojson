@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grt_buffer_bbox_wgs84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Align_Status": "GRT Alignment", "County": "Humboldt", "City": null, "OwnerOperator": "City of Eureka", "SegmentNames": "Humboldt Bay Trail", "ExistingProposedPlanned": "Planned", "tractce": "000800", "geoid": "06023000800", "name": "8", "namelsad": "Census Tract 8", "mtfcc": "G5020", "funcstat": "S", "geocode": "6023000800", "TrailDelineation": 1213, "TrailDelineationDescription": "Paved", "RecResults": "Paved", "UpdatedRecs": "Paved", "Miles": 4.09943, "Shape_Length": 21644.857868, "width": 322058.149584, "height": 786707.48706199997, "area": 253365557546.62653, "perimeter": 2217531.2732910002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -124.128846348889354, 38.756620487838042 ], [ -122.998610563974282, 38.789809310790659 ], [ -123.088620424713326, 40.947215809366028 ], [ -124.252705291803338, 40.912984377704504 ], [ -124.128846348889354, 38.756620487838042 ] ] ] } }
+]
+}
